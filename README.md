@@ -9,6 +9,9 @@
 
 ## Xadrez no terminal
 
+Desenvolvido com o curso [java curso completo](https://www.udemy.com/course/java-curso-completo/) do professor @acenelio.
+Repositorio do projeto [aqui](https://github.com/acenelio/chess-system-java/tree/master)
+
 Imagem inicial do jogo. Para jogar você deve mandar cordenadas usando letra + numero.
 Ex: a2.
 ![img.png](.github%2Fimg.png)
@@ -21,18 +24,24 @@ Após a movimentação, peça mexe e será a vez ddas peças prestas.
 
 ### Avisos
 
--Check
+- Check
 ![img_5.png](.github%2Fimg_5.png)
--Não existe peça na posição de origem.
+
+- Não existe peça na posição de origem.
 ![img_10.png](.github%2Fimg_10.png)
--A peça escolhida não pode se mover para a posição de destino.
+
+- A peça escolhida não pode se mover para a posição de destino.
 ![img_11.png](.github%2Fimg_11.png)
--A peça escolhida não é a da vez.
+
+- A peça escolhida não é a da vez.
 ![img_12.png](.github%2Fimg_12.png)
+
 - Erro ao ler a posição da peça. Valores validos são de a1 ate h8.
 ![img_13.png](.github%2Fimg_13.png)
+
 - Você não pode se colocar em CHECK!
 ![img_14.png](.github%2Fimg_14.png)
+
 - Checkmate
 ![img_15.png](.github%2Fimg_15.png)
 
