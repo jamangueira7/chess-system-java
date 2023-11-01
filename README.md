@@ -9,7 +9,7 @@
 
 ## Xadrez no terminal
 
-Desenvolvido com o curso [java curso completo](https://www.udemy.com/course/java-curso-completo/) do professor @acenelio.
+Desenvolvido com o curso [java curso completo](https://www.udemy.com/course/java-curso-completo/) do professor @acenelio .
 Repositorio do projeto [aqui](https://github.com/acenelio/chess-system-java/tree/master)
 
 Imagem inicial do jogo. Para jogar você deve mandar cordenadas usando letra + numero.
@@ -27,38 +27,51 @@ Após a movimentação, peça mexe e será a vez ddas peças prestas.
 - Check
 ![img_5.png](.github%2Fimg_5.png)
 
+
 - Não existe peça na posição de origem.
 ![img_10.png](.github%2Fimg_10.png)
+
 
 - A peça escolhida não pode se mover para a posição de destino.
 ![img_11.png](.github%2Fimg_11.png)
 
+
 - A peça escolhida não é a da vez.
 ![img_12.png](.github%2Fimg_12.png)
+
 
 - Erro ao ler a posição da peça. Valores validos são de a1 ate h8.
 ![img_13.png](.github%2Fimg_13.png)
 
+
 - Você não pode se colocar em CHECK!
 ![img_14.png](.github%2Fimg_14.png)
+
 
 - Checkmate
 ![img_15.png](.github%2Fimg_15.png)
 
+  
 ### Jogadas especiais
 
--En passant: Quando um peça anda 2 casas, na proxima jogada ela está vulneravel a tomar um en passant.
+-**En passant:** Quando um peça anda 2 casas, na proxima jogada ela está vulneravel a tomar um en passant.
 ![img_3.png](.github%2Fimg_3.png)
+
+
 A jogada consiste em permitir uma movimentação especial para peão capiturar outro peão passando por tras.
 ![img_4.png](.github%2Fimg_4.png)
 
--Roque: Quando rei e torre não foram mexidas, o caminho entre eles está livre e o rei não está em check, é possivel fazer um jogada de proteção.
+-**Roque:** Quando rei e torre não foram mexidas, o caminho entre eles está livre e o rei não está em check, é possivel fazer um jogada de proteção.
 ![img_6.png](.github%2Fimg_6.png)
+
+
 Jogada já feita.
 ![img_7.png](.github%2Fimg_7.png)
 
--Promoção: é uma regra do xadrez que descreve a transformação de um peão que alcança a oitava fileira em uma peça da escolha do jogador como a dama, torre, bispo ou cavalo.
+-**Promoção:** é uma regra do xadrez que descreve a transformação de um peão que alcança a oitava fileira em uma peça da escolha do jogador como a dama, torre, bispo ou cavalo.
 ![img_8.png](.github%2Fimg_8.png)
+
+
 Peão promovido a rainha.
 ![img_9.png](.github%2Fimg_9.png)
 
