@@ -12,6 +12,15 @@
 Desenvolvido com o curso [java curso completo](https://www.udemy.com/course/java-curso-completo/) do professor @acenelio .
 Repositorio do projeto [aqui](https://github.com/acenelio/chess-system-java/tree/master)
 
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+  - [JAVA](https://www.java.com/pt-BR/) openjdk 11.0.20.1 2023-08-24
+
+## 💻 Projeto
+
 Imagem inicial do jogo. Para jogar você deve mandar cordenadas usando letra + numero.
 Ex: a2.
 ![img.png](.github%2Fimg.png)
@@ -25,33 +34,33 @@ Após a movimentação, peça mexe e será a vez ddas peças prestas.
 ### Avisos
 
 - Check <br>
-![img_5.png](.github%2Fimg_5.png)
+  ![img_5.png](.github%2Fimg_5.png)
 
 
 - Não existe peça na posição de origem.<br>
-![img_10.png](.github%2Fimg_10.png)
+  ![img_10.png](.github%2Fimg_10.png)
 
 
 - A peça escolhida não pode se mover para a posição de destino.<br>
-![img_11.png](.github%2Fimg_11.png)
+  ![img_11.png](.github%2Fimg_11.png)
 
 
 - A peça escolhida não é a da vez.
-![img_12.png](.github%2Fimg_12.png)
+  ![img_12.png](.github%2Fimg_12.png)
 
 
 - Erro ao ler a posição da peça. Valores validos são de a1 ate h8.<br>
-![img_13.png](.github%2Fimg_13.png)
+  ![img_13.png](.github%2Fimg_13.png)
 
 
 - Você não pode se colocar em CHECK!<br>
-![img_14.png](.github%2Fimg_14.png)
+  ![img_14.png](.github%2Fimg_14.png)
 
 
 - Checkmate <br>
-![img_15.png](.github%2Fimg_15.png)
+  ![img_15.png](.github%2Fimg_15.png)
 
-  
+
 ### Jogadas especiais
 
 -**En passant:** Quando um peça anda 2 casas, na proxima jogada ela está vulneravel a tomar um en passant.<br>
@@ -74,17 +83,6 @@ Jogada já feita.<br>
 
 Peão promovido a rainha.<br>
 ![img_9.png](.github%2Fimg_9.png)
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-  - [JAVA](https://www.java.com/pt-BR/) openjdk 11.0.20.1 2023-08-24
-
-## 💻 Projeto
-
-A necessidade é desenvolver uma API RESTFul para o gerenciamento de pedidos de uma pastelaria utilizando o framework Laravel/Lúmen.
-
 
 ## 🚀 Como Rodar
 
